@@ -15,6 +15,23 @@ Education
 
 Related Experience
 ======
+* Apr 2023 - Jun 2023: Traniee
+* Yetkin Gençler (YetGen)
+  * YetGen is a 14-week 21st Century Competencies Training Program where pieces of training such as Effective Presentation Techniques, Teamwork, Career Planning, Modelling with Excel, Information / Media / Finance / Health Literacy, Social Innovation, and GirişGen (Ideathon) process have been organized.
+  * I am completing the assignments given during the program, and developing an idea for a solution to a world problem with the focus of the UN Sustainable Development Goals within the GirişGen ideathon.
+
+* Oct 2022 - Jun 2023: IT Department
+* Istanbul University
+  * Part Time Student
+  * I did provided hardware assistance for IT department.
+
+* Jul 2022 - Oct 2022: Python & R Instructor
+* Language Workshop Club (YTU)
+  * Working as a Python & R co-instructor at the Language Workshop, Yıldız Technical University, teaching 72 students with different academic backgrounds (BA, MA, PhD)
+  * Preparing coding materials, exercises, and grading students' assignments.
+  * Managing the Slack workspace of the course.
+  * Meeting and assisting students working in group and individually.
+
 * Feb 2018 - Jan 2020: Social Media Coordinator
 * Yeşil Esenyurt Soccer Club
   * I have worked as the social media coordinator of a soccer club, keeping the data in social media accounts up to date.
@@ -26,8 +43,8 @@ Related Experience
 
 Technical Skills
 ======
-* **Programming**: `ASP.NET MVC`, `C#`, `HTML`, `CSS`, `Python`, `LATEX`
-* **Software & Tools**: Visual Studio, Visual Studio Code, Photoshop CC, Microsoft Office, PyCharm, Github
+* **Programming**: `ASP.NET MVC`, `C#`, `HTML`, `CSS`, `Python`, 'R' `LATEX`
+* **Software & Tools**: Visual Studio, Visual Studio Code, Photoshop CC, Microsoft Office, PyCharm, Github, PowerBI
 * **Languages**: Turkish (native), English (intermediate), German (elementary)
 
 Projects
@@ -44,7 +61,7 @@ Certificates
  * UiPath RPA Developer issued by UiPat
  * Social Media Expertise issued by IIENSTITU
  * WordPress Education issued by IIENSTITU
- * Full Merit Scholarship for Computer Educational Technology given by Bahcesehir University (ApplyBAU)
+ * Full Merit Scholarship for Computer Educational Technology given by Bahcesehir University (ApplyBAU'21)
  
 
 Honors & Awards 
