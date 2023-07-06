@@ -9,7 +9,7 @@ permalink: /cv/
 
 Education
 ======
-* Bachelor's Degree in Econometry, Istanbul University, 2022-2026
+* Bachelor's Degree in Econometrics, Istanbul University, 2022-2026
 * High School in Maths & Sciences, Çınar Koleji, 2020-2021
 * High School in Maths & Sciences, Beylikdüzü Cahit Zarifoğlu Anatolian High School, 2017-2020
 
